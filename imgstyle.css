@@ -1,0 +1,12 @@
+.main-img {
+    height: 50rem;
+    position: absolute;
+    left: 43rem;
+    top: 10rem;
+    opacity: 50%;
+    z-index: -1;
+  }
+
+  .review-img {
+      size: 50%;
+  }
